@@ -1,0 +1,331 @@
+[
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "python"
+  },
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "azure"
+  },
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "aws"
+  },
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "pandas"
+  },
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "tensorflow"
+  },
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "keras"
+  },
+  {
+    "job_id": 316669,
+    "job_title": "Senior Data & AI Engineer",
+    "company_name": "Capgemini",
+    "salary_year_avg": "176500.0",
+    "skills": "pytorch"
+  },
+  {
+    "job_id": 147980,
+    "job_title": "Sr Data Scientist - Partner Profitability Analytics",
+    "company_name": "Expedia Group",
+    "salary_year_avg": "170575.0",
+    "skills": "sql"
+  },
+  {
+    "job_id": 147980,
+    "job_title": "Sr Data Scientist - Partner Profitability Analytics",
+    "company_name": "Expedia Group",
+    "salary_year_avg": "170575.0",
+    "skills": "python"
+  },
+  {
+    "job_id": 147980,
+    "job_title": "Sr Data Scientist - Partner Profitability Analytics",
+    "company_name": "Expedia Group",
+    "salary_year_avg": "170575.0",
+    "skills": "r"
+  },
+  {
+    "job_id": 147980,
+    "job_title": "Sr Data Scientist - Partner Profitability Analytics",
+    "company_name": "Expedia Group",
+    "salary_year_avg": "170575.0",
+    "skills": "matplotlib"
+  },
+  {
+    "job_id": 147980,
+    "job_title": "Sr Data Scientist - Partner Profitability Analytics",
+    "company_name": "Expedia Group",
+    "salary_year_avg": "170575.0",
+    "skills": "plotly"
+  },
+  {
+    "job_id": 1195938,
+    "job_title": "Azure Data Architect",
+    "company_name": "SGS",
+    "salary_year_avg": "165000.0",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1195938,
+    "job_title": "Azure Data Architect",
+    "company_name": "SGS",
+    "salary_year_avg": "165000.0",
+    "skills": "azure"
+  },
+  {
+    "job_id": 1195938,
+    "job_title": "Azure Data Architect",
+    "company_name": "SGS",
+    "salary_year_avg": "165000.0",
+    "skills": "power bi"
+  },
+  {
+    "job_id": 428488,
+    "job_title": "Data Scientist",
+    "company_name": "Amadeus",
+    "salary_year_avg": "165000.0",
+    "skills": "python"
+  },
+  {
+    "job_id": 428488,
+    "job_title": "Data Scientist",
+    "company_name": "Amadeus",
+    "salary_year_avg": "165000.0",
+    "skills": "scala"
+  },
+  {
+    "job_id": 428488,
+    "job_title": "Data Scientist",
+    "company_name": "Amadeus",
+    "salary_year_avg": "165000.0",
+    "skills": "azure"
+  },
+  {
+    "job_id": 428488,
+    "job_title": "Data Scientist",
+    "company_name": "Amadeus",
+    "salary_year_avg": "165000.0",
+    "skills": "spark"
+  },
+  {
+    "job_id": 428488,
+    "job_title": "Data Scientist",
+    "company_name": "Amadeus",
+    "salary_year_avg": "165000.0",
+    "skills": "tableau"
+  },
+  {
+    "job_id": 428488,
+    "job_title": "Data Scientist",
+    "company_name": "Amadeus",
+    "salary_year_avg": "165000.0",
+    "skills": "qlik"
+  },
+  {
+    "job_id": 374824,
+    "job_title": "Senior Principal Data Scientist",
+    "company_name": "NielsenIQ",
+    "salary_year_avg": "157500.0",
+    "skills": "sql"
+  },
+  {
+    "job_id": 374824,
+    "job_title": "Senior Principal Data Scientist",
+    "company_name": "NielsenIQ",
+    "salary_year_avg": "157500.0",
+    "skills": "python"
+  },
+  {
+    "job_id": 374824,
+    "job_title": "Senior Principal Data Scientist",
+    "company_name": "NielsenIQ",
+    "salary_year_avg": "157500.0",
+    "skills": "pyspark"
+  },
+  {
+    "job_id": 1316010,
+    "job_title": "Senior Data Scientist (f/m/d) Spain",
+    "company_name": "SIGNA Sports United",
+    "salary_year_avg": "157500.0",
+    "skills": "sql"
+  },
+  {
+    "job_id": 1316010,
+    "job_title": "Senior Data Scientist (f/m/d) Spain",
+    "company_name": "SIGNA Sports United",
+    "salary_year_avg": "157500.0",
+    "skills": "python"
+  },
+  {
+    "job_id": 1316010,
+    "job_title": "Senior Data Scientist (f/m/d) Spain",
+    "company_name": "SIGNA Sports United",
+    "salary_year_avg": "157500.0",
+    "skills": "aws"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "python"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "r"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "databricks"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "aws"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "spark"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "pytorch"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "scikit-learn"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "git"
+  },
+  {
+    "job_id": 845058,
+    "job_title": "Senior Machine Learning Engineer + Data Scientist",
+    "company_name": "Aetion",
+    "salary_year_avg": "157500.0",
+    "skills": "docker"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "sql"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "scala"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "azure"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "databricks"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "bigquery"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "snowflake"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "spark"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "qlik"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "github"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "bitbucket"
+  },
+  {
+    "job_id": 306051,
+    "job_title": "Data Engineer",
+    "company_name": "Amadeus",
+    "salary_year_avg": "156500.0",
+    "skills": "jira"
+  }
+]
