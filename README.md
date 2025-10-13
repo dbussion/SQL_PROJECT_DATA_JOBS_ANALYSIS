@@ -82,7 +82,7 @@ FROM top_paying_data_jobs
 INNER JOIN skills_job_dim USING (job_id)
 INNER JOIN skills_dim USING (skill_id);
 ```
-![Most in-demand skill for top-paying data jobs in Spain 2023](PROJECT_SQL\img2.png)
+![Most in-demand skill for top-paying data jobs in Spain 2023](assets/img2.png)
 *Bar chart showing most in-demand skills for top paying data jobs in Spain 2023; ChatGPT generated graph from SQL query results*
 
 #### Insights:
@@ -106,7 +106,7 @@ GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 10;
 ```
-![Top 10 most in-demand skills for data jobs](PROJECT_SQL\img3.png)
+![Top 10 most in-demand skills for data jobs](assets/img3.png)
 *Bar chart showing top 10 most in-demand skills for data jobs in Spain 2023; ChatGPT generated graph from SQL query results*
 
 #### Insights:
@@ -133,7 +133,7 @@ HAVING COUNT(skills) > 4
 ORDER BY average_salary DESC
 LIMIT 25;
 ```
-![Top 25 highest-paying skills for data jobs](PROJECT_SQL\img4.png)
+![Top 25 highest-paying skills for data jobs](assets/img4.png)
 *Bar chart showing top 25 highest-paying skills for data jobs in Spain 2023; ChatGPT generated graph from SQL query results*
 
 #### Insights:
