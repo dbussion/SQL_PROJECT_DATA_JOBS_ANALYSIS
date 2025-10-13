@@ -45,7 +45,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![Top_Paying_Data_Jobs](assets\img1.png)
+![Top_Paying_Data_Jobs](assets/img1.png)
 *Bar chart showing Top 10 paying data jobs in Spain 2023; ChatGPT generated graph from SQL query results*
 
 #### Insights:
