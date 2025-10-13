@@ -9,7 +9,7 @@ providing insights into the skills that are most sought after by employers.
 
 SELECT
     skills,
-    COUNT(skills_job_dim.skill__id) AS demand_count
+    COUNT(skills_job_dim.skill_id) AS demand_count
 FROM job_postings_fact
 INNER JOIN skills_job_dim USING (job_id)
 INNER JOIN skills_dim USING (skill_id)
